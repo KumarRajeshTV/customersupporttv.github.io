@@ -25,8 +25,7 @@ body {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  margin-top: 50px;		  
-}
+ }
 @keyframes fade {
   from {
     opacity: 0;
