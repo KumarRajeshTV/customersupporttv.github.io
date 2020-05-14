@@ -20,12 +20,12 @@ body {
 	font-weight: 400;
 }
 
-#myModal {
+#myModal-internal-ui-dialog {
     width: 80% !important;
     height: 80% !important;
 }
 
-#myModal{
+#myModal-internal-ui-dialog-content{
     width: 100% !important;
     height: 100% !important;
 }
