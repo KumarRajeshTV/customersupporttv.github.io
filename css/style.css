@@ -20,6 +20,15 @@ body {
 	font-weight: 400;
 }
 
+#myModal {
+    width: 80% !important;
+    height: 80% !important;
+}
+
+.myModal{
+    width: 100% !important;
+    height: 100% !important;
+}
 p {
 	font-size:16px;
 
