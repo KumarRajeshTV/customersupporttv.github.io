@@ -72,6 +72,7 @@ p {
 
 .navbar-brand {
     font-weight: 700;
+    text-indent: -2em;
 }
 
 .navbar-brand:focus {
