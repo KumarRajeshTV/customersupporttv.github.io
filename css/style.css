@@ -21,7 +21,8 @@ body {
 
 .jotform{
 	margin-top: 140px;
-	 background-image: url("paper.gif");
+	 background-image: url("../images/portfolio/full/item1.png");
+	background-repeat:none;
 }
 
 p {
